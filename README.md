@@ -2,4 +2,4 @@
 Screen Recorder Onine
 
 # Demo
-https://online-sr.netlify.net
+https://online-sr.netlify.app
