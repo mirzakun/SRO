@@ -1,6 +1,6 @@
 # SRO
-Screen Recorder Onine
-Competible in desktop
+Screen Recorder Onine, 
+Only for desktop
 
 # Demo
 https://onine-sr.netlify.app/
